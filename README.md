@@ -162,4 +162,5 @@ Coordinación de Universidad Abierta y Educación a Distancia. (s. f.). *Subnete
 <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/2222b416-3ce6-4dab-bcc7-c9382f5e2b62" />
 
 
-![[WhatsApp Image 2026-10-19 at 4.51.38 PM.jpeg]]
+<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/e290d10e-e02c-46a9-88b0-31e977b0a592" />
+
