@@ -122,7 +122,7 @@ switch(config)# ip default-gateway 202.22.20.33
 Una vez configurados los dispositivos de red Cisco y los equipos terminales, se procedió a verificar la conectividad mediante pruebas de eco (*ping*) entre las computadoras pertenecientes a la misma subred. El resultado confirmó una comunicación exitosa y bidireccional entre los *hosts*, validando el correcto funcionamiento del esquema de direccionamiento implementado.
 
 ![](photo_2026-10-19_23-05-3.jpg)
-![[WhatsApp Image 2026-10-19 at 4.46.48 PM.jpeg]]
+<img width="488" height="418" alt="image" src="https://github.com/user-attachments/assets/1249112d-71e3-45ed-be44-d76f0b8dd9c2" />
 
 
 > **NOTA:** Se omitió la inclusión de capturas sobre la interfaz de configuración en los equipos terminales debido a la falta de evidencia fotográfica durante la sesión de laboratorio.
