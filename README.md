@@ -1,6 +1,7 @@
 # PRÁCTICA DE LABORATORIO: IMPLEMENTACIÓN FÍSICA DE SUBNETEO IPV4
 ---
- ![[subneteo_laboratorio_uttab_20261019221240882(1).png]]
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/e97c7055-9a52-41c8-acd3-6f5dc45b2e04" />
+
 
 19/10/26
 
